@@ -1,0 +1,1 @@
+{"version":3,"sources":["GoodsList.css"],"names":[],"mappings":"AAAA,cAEE,cAAe,CACf,YACF","file":"main.3f3efd6d.chunk.css","sourcesContent":["select,\nbutton {\n  cursor: pointer;\n  margin: 0 5px;\n}\n"]}
